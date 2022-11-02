@@ -16,4 +16,4 @@ This script uses official Github API to loop through any new invitations and aut
 
 The script will run forever. It checks for invitations, accepts them and then sleeps for 30 seconds. Rinses and repeats.
 
-To deploy this to production, it would be probably best to use cronjob or process manager like [PM2](https://pm2.io).
+To deploy this to production, it would probably be best to use cronjob or process manager like [PM2](https://pm2.io), which can handle system restarts or crashes of the script.
