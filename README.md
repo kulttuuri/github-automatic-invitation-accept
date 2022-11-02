@@ -1,5 +1,8 @@
 # github-automatic-invitation-accept
+
 Ever needed to automatically accept invitations to Github repositories? With this script you can do that!
+
+This script uses official Github API to loop through any new invitations and automatically accepts them.
 
 ## Setting Up
 
@@ -7,7 +10,7 @@ Ever needed to automatically accept invitations to Github repositories? With thi
 2) Copy ``settings_example.json`` as ``settings.json``
 3) Add your Github ``token``, ``username`` in ``settings.json``
 4) Run with ``python3 main.py``
-5) Profit?!
+5) Enjoy!
 
 ## Production Deployment
 
