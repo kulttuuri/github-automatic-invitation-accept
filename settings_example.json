@@ -1,0 +1,9 @@
+// Please rename this file as settings.json
+{
+  // Your Github token. You can create one here: https://github.com/settings/tokens. Please create one that does not expire.
+  "token": "",
+  // Your github username.
+  "username": "",
+  // If true, will print information about accepted repositories.
+  "verbose": false
+}
