@@ -1,6 +1,6 @@
 // Please rename this file as settings.json
 {
-  // Your Github token. You can create one here: https://github.com/settings/tokens. Please create one that does not expire.
+  // Your Github token. You can create one here: https://github.com/settings/tokens. Please create one that does not expire. Scope "repo" is enough for this token.
   "token": "",
   // Your github username.
   "username": "",
